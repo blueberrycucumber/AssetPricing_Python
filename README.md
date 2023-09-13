@@ -7,6 +7,10 @@ This is a method of implementing empirical asset pricing in Python mainly based 
 ## An empirical test of the Fama-French three-factor model in the Chinese stock market
 - A code implementation of event study method and factor analysis
 - Programming using Python and Stata
+> Reference Book:
+> 1. Empirical Asset Pricing: the Cross-Section of Stock Return, Bali, Engle, and Murray. Wiley, 2016.
+> 2. 实证资产定价：股票横截面收益，Turan G. Bali等著，张学勇、朱一峰译，中国人民大学出版社，2020。
+> 3. 因子投资：方法与实践，石川、刘洋溢、连祥斌著，电子工业出版社，2020。
 
 ## A Chinese interest rate ceiling, floor and double limit contract
 - with pricing analysis using standard market models
