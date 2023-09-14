@@ -1,7 +1,7 @@
 # AssetPricing_Python
 [![](https://img.shields.io/badge/python-3.7.0-orange.svg)](https://www.python.org/downloads/release/python-370/)
 
-This is a method of implementing empirical asset pricing in Python mainly based on **data from the Chinese market**.
+mainly based on **data from the Chinese market**.
 
 
 ## An empirical test of the Fama-French three-factor model in the Chinese stock market
